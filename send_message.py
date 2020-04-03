@@ -48,7 +48,7 @@ def message(touser):
     #模板id填自己申请的id，字段名称都要对应
     body = {
         "touser": touser,
-        "template_id": "kuyJzYVUJNgWGNRa31-eR5KdEdvZtWBlqF2XDbs3BtE",
+        "template_id": "这里填自己申请的id",
         "page": "pages/index/index",
         "lang":"zh_CN",
         "data": {
